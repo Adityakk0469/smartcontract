@@ -45,7 +45,7 @@ Highlight differences in error handling and gas management.
 
 ### Executing program
 
-* Open Remix IDE.
+* Open Remix IDE. https://remix.ethereum.org/
 * Create a new file and paste the contract code.
 * Compile the contract.
 * Deploy the contract.
