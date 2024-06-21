@@ -4,13 +4,13 @@ smart contract to demonstrates the use of require(), assert(), and revert()
 
 ## Description
 
-###Overview: This project showcases effective error handling in Solidity smart contracts using require(), assert(), and revert() statements. It demonstrates how to ensure contract security, reliability, and proper user input validation.
+Overview: This project showcases effective error handling in Solidity smart contracts using require(), assert(), and revert() statements. It demonstrates how to ensure contract security, reliability, and proper user input validation.
 
-###Objectives: Illustrate the correct usage of require(), assert(), and revert().
+Objectives: Illustrate the correct usage of require(), assert(), and revert().
 Highlight differences in error handling and gas management.
 
 
-###Features:
+Features:
 
   Ownership:  Constructor sets the deployer as the owner.
   onlyOwner modifier restricts functions to the owner.
