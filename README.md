@@ -14,9 +14,13 @@ Features:
 
   Ownership:  Constructor sets the deployer as the owner.
   onlyOwner modifier restricts functions to the owner.
+  
   Deposit: Users can deposit Ether, validated by require().
+  
   Withdraw: Owner can withdraw Ether, with checks using require() and assert().
+  
   Balance Tracking: Publicly tracks the contract balance.
+  
   Error Handling:
     Demo Revert: Uses revert() to handle over-withdrawal with custom messages.
     Demo Assert: Ensures balance invariants using assert().
