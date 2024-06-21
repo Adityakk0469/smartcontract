@@ -40,17 +40,25 @@ User Feedback: Provides clear error messages for invalid actions.
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* To run test the program just copy the content of smartcontract.sol
 
 ### Executing program
 
-* How to run the program
+* Deploy the Contract:
+  Open Remix IDE.
+  Create a new file and paste the contract code.
+  Compile the contract.
+  Deploy the contract.
+  
 * Step-by-step bullets
 ```
 code blocks for commands
 ```
 
+Use the deposit function to add funds to the contract.
+Use the withdraw function to withdraw funds (only the owner can do this).
+Use the demoRevert function to test the revert statement.
+Use the demoAssert function to test the assert statement.
 ## Help
 
 Any advise for common problems or issues.
